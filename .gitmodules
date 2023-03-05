@@ -1,10 +1,10 @@
 [submodule "assets"]
 	path = assets
-	url = https://github.com/yuanming-hu/taichi_assets
+	url = https://github.com.cnpmjs.org/yuanming-hu/taichi_assets
 	shallow = true
 [submodule "external/spdlog"]
 	path = external/spdlog
-	url = https://github.com/gabime/spdlog
+	url = https://github.com.cnpmjs.org/gabime/spdlog
 	shallow = true
 [submodule "external/glfw"]
 	path = external/glfw
@@ -33,29 +33,29 @@
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
 [submodule "external/imgui"]
 	path = external/imgui
-	url = https://github.com/ocornut/imgui.git
+	url = https://github.com.cnpmjs.org/ocornut/imgui.git
 [submodule "external/glm"]
 	path = external/glm
-	url = https://github.com/g-truc/glm.git
+	url = https://github.com.cnpmjs.org/g-truc/glm.git
 [submodule "external/eigen"]
 	path = external/eigen
-	url = https://gitlab.com/libeigen/eigen.git
+	url = https://github.com.cnpmjs.org/libeigen/eigen.git
 	branch = 3.3
 [submodule "external/SPIRV-Reflect"]
 	path = external/SPIRV-Reflect
-	url = https://github.com/KhronosGroup/SPIRV-Reflect
+	url = https://github.com.cnpmjs.org/KhronosGroup/SPIRV-Reflect
 [submodule "external/SPIRV-Tools"]
 	path = external/SPIRV-Tools
-	url = https://github.com/KhronosGroup/SPIRV-Tools
+	url = https://github.com.cnpmjs.org/KhronosGroup/SPIRV-Tools
 [submodule "external/SPIRV-Cross"]
 	path = external/SPIRV-Cross
-	url = https://github.com/KhronosGroup/SPIRV-Cross
+	url = https://github.com.cnpmjs.org/KhronosGroup/SPIRV-Cross
 [submodule "external/Vulkan-Headers"]
 	path = external/Vulkan-Headers
-	url = https://github.com/KhronosGroup/Vulkan-Headers
+	url = https://github.com.cnpmjs.org/KhronosGroup/Vulkan-Headers
 [submodule "external/FP16"]
 	path = external/FP16
-	url = https://github.com/Maratyszcza/FP16
+	url = https://github.com.cnpmjs.org/Maratyszcza/FP16
 [submodule "external/PicoSHA2"]
 	path = external/PicoSHA2
-	url = https://github.com/okdshin/PicoSHA2.git
+	url = https://github.com.cnpmjs.org/okdshin/PicoSHA2.git
